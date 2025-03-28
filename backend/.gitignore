@@ -1,0 +1,42 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Build
+/dist
+/build
+
+# Logs
+logs
+*.log
+
+# Testing
+/coverage
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.sublime-project
+*.sublime-workspace
+
+# Uploads
+uploads/
+
+# Other
+.tmp/
+.temp/
