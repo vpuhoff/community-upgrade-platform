@@ -40,3 +40,4 @@ coverage/
 # Файлы баз данных
 *.sqlite
 *.db
+*.sh
